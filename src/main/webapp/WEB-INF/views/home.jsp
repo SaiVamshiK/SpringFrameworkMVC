@@ -7,6 +7,6 @@
 <title>Home Page</title>
 </head>
 <body>
-<h1>This is the home page</h1>
+	<h1 align="center"><%= request.getAttribute("title") %></h1>
 </body>
 </html>

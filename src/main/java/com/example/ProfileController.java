@@ -17,3 +17,5 @@ public class ProfileController {
 		return "personalProfile";
 	}	
 }
+
+
