@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Your order is being processed.</h1>
+<h1>Your order <%= request.getAttribute("orderValue") %> is being processed.</h1>
 </body>
 </html>
