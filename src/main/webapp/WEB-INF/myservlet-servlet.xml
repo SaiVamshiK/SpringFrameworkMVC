@@ -12,5 +12,5 @@
 	
 	
 	<ctx:annotation-config></ctx:annotation-config>
-	<ctx:component-scan base-package=""></ctx:component-scan>
+	<ctx:component-scan base-package="com.example"></ctx:component-scan>
 </beans>
