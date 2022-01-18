@@ -8,6 +8,6 @@ public class HomeController {
 	@RequestMapping("/home")
 	public String getHomePage()
 	{
-		return "/WEB-INF/views/home.jsp";
+		return "home";
 	}
 }

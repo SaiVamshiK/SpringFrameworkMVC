@@ -7,6 +7,6 @@ public class SettingsController {
 	@RequestMapping("/settings")
 	public String getSettingsPage()
 	{
-		return "/WEB-INF/views/settings.jsp";
+		return "settings";
 	}
 }

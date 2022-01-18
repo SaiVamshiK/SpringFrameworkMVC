@@ -8,12 +8,12 @@ public class ProfileController {
 	@RequestMapping("")
 	public String getProfilePage()
 	{
-		return "/WEB-INF/views/profile.jsp";
+		return "profile";
 	}
 	
 	@RequestMapping("/personal")
 	public String getPersonalPage()
 	{
-		return "/WEB-INF/views/personalProfile.jsp";
+		return "personalProfile";
 	}	
 }
