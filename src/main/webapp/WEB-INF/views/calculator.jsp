@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1><a href="/MvcStarter/home.com/home">Enter Home Page</a></h1>
-<h1><a href="/MvcStarter/home.com/calculator">Enter calculator page</a></h1>
+<h1 align="center">Calculator Page</h1>
 </body>
 </html>
-
